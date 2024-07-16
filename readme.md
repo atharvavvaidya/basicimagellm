@@ -1,0 +1,1 @@
+Describes the image which is uploaded to the system
